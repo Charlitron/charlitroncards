@@ -1,0 +1,8 @@
+{
+  "name": "Charlitron Cards",
+  "description": "Digital flyer and loyalty card platform for Google and Apple Wallet. Replace traditional paper flyers with smart, geolocation-aware digital passes.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
